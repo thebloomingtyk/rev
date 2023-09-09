@@ -1,0 +1,16 @@
+.env
+*.ipynb
+*/__pycache__
+*/migrations
+*/*.pyc
+*.pyc
+debug.py
+env.py
+Pipfile.lock
+db.sqlite3
+venv/
+env/
+.vscode
+/__pycache__
+.idea
+*/media
